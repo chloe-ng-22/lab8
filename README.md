@@ -2,6 +2,6 @@
 
 # GeoTag 
 A simple tutorial for making an interactive map with a sidebar....
-Link to demo map: https://chloe-ng-22.github.io/lab8/
+Link to demo map: https://chloe-ng-22.github.io/lab8/index.html
 
-Sound effects: https://uppbeat.io/sfx/category/silly-and-random
+
